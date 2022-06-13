@@ -18,7 +18,7 @@
               </li>
               <li class="nav-item">
                 <!-- vfarmer/login -->
-                <a class="nav-link" href="vfarmer/login">Dashboard</a>
+                <a class="nav-link" href="login">Dashboard</a>
               </li>
               <li class="nav-item">
                 <!-- vfarmer/register -->
