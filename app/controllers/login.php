@@ -8,7 +8,7 @@
         {
             // echo view('home');
             // $data['page_title'] = "Home";
-            $this->view("login");
+            $this->view("vfarmer/login");
         }
 
     }
